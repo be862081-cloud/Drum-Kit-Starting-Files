@@ -1,0 +1,55 @@
+body {
+    background-color: #283149;
+    text-align: center;
+    font-family: "Arvo", serif;
+}
+
+#title {
+    color: white;
+    font-size: 5rem;
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.drum {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 8px solid #404B69;
+    border-radius: 15px;
+    font-size: 5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Each letter gets a different background */
+
+.w {
+    background-color: red;
+}
+
+.a {
+    background-color: blue;
+}
+
+.s {
+    background-color: green;
+}
+
+.d {
+    background-color: yellow;
+}
+
+.j {
+    background-color: purple;
+}
+
+.k {
+    background-color: orange;
+}
+
+.l {
+    background-color: pink;
+}
